@@ -1,0 +1,8 @@
+---
+auditd_packages:
+  - name: audit
+    state: installed
+
+auditd_rules: []
+
+auditd_enable_immutable: false
